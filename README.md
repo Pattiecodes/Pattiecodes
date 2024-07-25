@@ -5,8 +5,8 @@ In my journey to broaden my horizons and expand my knowledge, I am currently stu
 I am continuously seeking opportunities to learn and grow, both academically and professionally, and I am eager to apply my skills and knowledge to create innovative solutions.
 
 Contact
-Email: deocampojamespatrick@gmail.com
-LinkedIn: https://www.linkedin.com/in/james-patrick-de-ocampo-15b562117/
+Email: deocampojamespatrick@gmail.com\n
+LinkedIn: https://www.linkedin.com/in/james-patrick-de-ocampo-15b562117/\n
 GitHub: https://github.com/Pattiecodes
 
 
