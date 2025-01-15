@@ -8,6 +8,7 @@ Contact
 Email: deocampojamespatrick@gmail.com
 LinkedIn: https://www.linkedin.com/in/james-patrick-de-ocampo-15b562117/
 GitHub: https://github.com/Pattiecodes
+Portfolio: https://pattsportfolio.vercel.app/ 
 
 
 <!--
